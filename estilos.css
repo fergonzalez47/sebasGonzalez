@@ -1,38 +1,38 @@
 @charset "utf-8";
 .contenedor_principal header {
-    width: 93%;
-    height: 80px;
-    background-color: #1100EC;
-    color: #FFFFFF;
-    text-align: center;
-    font-size: 12px;
-    font-weight: normal;
-    margin-top: 10px;
-    margin-left: 0px;
-    margin-right: 5px;
-    padding-top: 15px;
-    border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
-    padding-right: 0px;
-    padding-left: 0px;
-    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-    font-style: italic;
-    line-height: 9px;
-    letter-spacing: 5px;
-    word-spacing: 0px;
-    list-style-position: inside;
+	width: 77%;
+	height: 80px;
+	background-color: #1100EC;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 12px;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-left: 135px;
+	margin-right: 5px;
+	padding-top: 15px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	padding-right: 0px;
+	padding-left: 0px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: italic;
+	line-height: 9px;
+	letter-spacing: 5px;
+	word-spacing: 0px;
+	list-style-position: inside;
 }
 .contenedor_principal .menu {
-    width: 93%;
-    height: 77px;
-    background-color: #000000;
-    color: #FDFDFD;
-    font-size: 20px;
-    margin-left: 0px;
-    margin-right: 5px;
-    margin-top: 5px;
-    padding-top: 11px;
-    text-align: center;
+	width: 93%;
+	height: 77px;
+	background-color: #000000;
+	color: #FDFDFD;
+	font-size: 20px;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-top: 9px;
+	padding-top: 11px;
+	text-align: center;
 }
 .contenedor_principal .menu table {
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
@@ -143,15 +143,15 @@
     padding-top: 9px;
 }
 .contenedor_principal .logos {
-    width: 6.5%;
-    height: 581px;
-    background-color: #FFFFFF;
-    float: right;
-    margin-top: -579px;
-    margin-right: 0px;
-    border-radius: 10px;
-    padding-left: 0px;
-    text-align: center;
+	width: 6.5%;
+	height: 452px;
+	background-color: #FFFFFF;
+	float: right;
+	margin-top: -451px;
+	margin-right: 0px;
+	border-radius: 10px;
+	padding-left: 0px;
+	text-align: center;
 }
 .contenedor_principal .logos img {
     margin-top: 6px;

@@ -23,16 +23,16 @@
     list-style-position: inside;
 }
 .contenedor_principal .menu {
-    width: 93%;
-    height: 77px;
-    background-color: #000000;
-    color: #FDFDFD;
-    font-size: 20px;
-    margin-left: 0px;
-    margin-right: 5px;
-    margin-top: 5px;
-    padding-top: 11px;
-    text-align: center;
+	width: 93%;
+	height: 77px;
+	background-color: #000000;
+	color: #FDFDFD;
+	font-size: 20px;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-top: 9px;
+	padding-top: 11px;
+	text-align: center;
 }
 .contenedor_principal .menu table {
     font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
