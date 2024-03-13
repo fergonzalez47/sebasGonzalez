@@ -156,3 +156,17 @@
 .contenedor_principal .logos img {
     margin-top: 6px;
 }
+.logo_11 {
+    height: 99px;
+    float: left;
+    background-color: #FFFFFF;
+    padding-left: 22px;
+    width: 69px;
+    margin-left: 4px;
+}
+.logo_12 {
+    float: right;
+    margin-right: 37px;
+    width: 11%;
+    margin-top: 1px;
+}
