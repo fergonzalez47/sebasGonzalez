@@ -1,6 +1,6 @@
 @charset "utf-8";
 .contenedor_principal header {
-    width: 93%;
+    width: 77%;
     height: 80px;
     background-color: #1100EC;
     color: #FFFFFF;
@@ -8,7 +8,7 @@
     font-size: 12px;
     font-weight: normal;
     margin-top: 10px;
-    margin-left: 0px;
+    margin-left: 135px;
     margin-right: 5px;
     padding-top: 15px;
     border-top-right-radius: 10px;
