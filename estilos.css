@@ -52,17 +52,17 @@
 }
 
 .contenedor_principal .menu_lateral {
-    width: 80%;
-    background-color: #1100EC;
-    height: 282px;
-    margin-top: 5px;
-    text-align: center;
-    color: #FFFFFF;
-    float: left;
-    margin-bottom: 5px;
-    padding-top: 11px;
-    margin-right: 5px;
-    margin-left: 90px;
+	width: 80%;
+	background-color: #1100EC;
+	height: 338px;
+	margin-top: 5px;
+	text-align: center;
+	color: #FFFFFF;
+	float: left;
+	margin-bottom: 5px;
+	padding-top: 11px;
+	margin-right: 5px;
+	margin-left: 90px;
 }
 .contenedor_principal .menu_lateral table {
     width: 76%;
@@ -126,21 +126,21 @@
 
 
 .contenedor_principal .piede_pagina {
-    width: 93%;
-    height: 40px;
-    background-color: #20C529;
-    clear: both;
-    color: #000000;
-    text-align: center;
-    font-size: 16px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    margin-right: 5px;
-    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
-    letter-spacing: 3px;
-    word-spacing: 2px;
-    font-weight: bold;
-    padding-top: 9px;
+	width: 93%;
+	height: 40px;
+	background-color: #FF0007;
+	clear: both;
+	color: #000000;
+	text-align: center;
+	font-size: 16px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin-right: 5px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	letter-spacing: 3px;
+	word-spacing: 2px;
+	font-weight: bold;
+	padding-top: 9px;
 }
 .contenedor_principal .logos {
 	width: 6.5%;
