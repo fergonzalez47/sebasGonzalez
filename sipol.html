@@ -38,7 +38,13 @@ a:visited {
 </table>
 </nav>
  	<aside class="menu_lateral">
- 	  <table width="400%" border="0" align="left" cellpadding="2" cellspacing="5">
+
+		<div>
+			<label for="search-person">Ingrese Cedula de identidad :</label>
+			<input type="text" name="search-person" id="search-person" placeholder="23123456" maxlength="9" required>
+			<button id="button-search-person">Buscar</button>
+		</div>
+ 	  <table id="show-user-inf" width="400%" border="0" align="left" cellpadding="2" cellspacing="5">
  	    <tbody>
  	      <tr>
  	        <td width="185" height="39">Nombres y Apellidos:</td>
@@ -74,5 +80,6 @@ a:visited {
 	<img src="inttt1.jpg" alt=""/>
 	<img src="gnb1.jpg" alt=""/> </section>
 </main>
+<script src="js/script.js"></script>
 </body>
 </html>

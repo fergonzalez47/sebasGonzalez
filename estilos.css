@@ -1,4 +1,17 @@
 @charset "utf-8";
+
+
+/* Esto lo que hice yo, Fernando:
+coloque un id a la tabla a fin de ponerla oculta:, 
+pero esta se mostrará una vez que se haga click en el botom "buscar" en la pagina SIPOL */
+
+#show-user-inf {
+    display: none;
+}
+
+
+
+
 .contenedor_principal header {
 	width: 77%;
 	height: 80px;
