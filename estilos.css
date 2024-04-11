@@ -9,7 +9,10 @@ pero esta se mostrará una vez que se haga click en el botom "buscar" en la pagi
     display: none;
 }
 
-
+#ci-error {
+    background-color: #EAFCE5;
+    color: red;
+}
 
 
 .contenedor_principal header {

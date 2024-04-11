@@ -3,14 +3,31 @@ document.addEventListener("DOMContentLoaded", function () {
 
     let table = document.getElementById("show-user-inf");
     let btn = document.getElementById("button-search-person");
+    let error = document.getElementById("ci-error");
+    let input = document.getElementById("search-person");
+
+
 
 
     btn.addEventListener("click", (e) => {
-        table.style.display = "block";
+        if (input.value == "") {
+            error.textContent = "";
+            error.textContent = "Debe ingresar el numero de Cedula";
+        }
+
+        else if (input.value.length < 6) {
+            error.textContent = "";
+            error.textContent = "Ingrese un numero de cedula correcto";
+        
+        } else {
+            error.textContent = "";
+            table.style.display = "block";
+        }
+        
     })
 
 
-    const input = document.getElementById("search-person");
+
 
     input.addEventListener("input", function () {
         let value = this.value.replace(/\D/g, ''); // Remueve todos los caracteres no numéricos
